@@ -1,0 +1,81 @@
+End User License Agreement (EULA)
+
+Version 1.1
+
+Effective Date: May 19, 2025
+
+This End User License Agreement ("Agreement") is a legal agreement between you ("User") and Andreno ("Developer") governing your use of the Stalker application ("App").
+
+By installing, copying, or otherwise using the App, you agree to be bound by the terms of this Agreement.
+
+1. License
+
+The Developer grants you a non-exclusive, non-transferable, revocable, limited license to install and use the App solely for your personal, non-commercial use, and only in accordance with this Agreement.
+
+2. Restrictions
+
+You agree that you will NOT:
+
+- Claim ownership or authorship of the App or any of its contents.
+- Redistribute, sell, lease, rent, lend, sublicense, publish, or provide access to the App or any part of it to any third party, in any form.
+- Reverse engineer, decompile, disassemble, decrypt, or otherwise attempt to discover the source code, architecture, algorithms, or underlying structure of the App.
+- Modify, adapt, translate, reproduce, or create derivative works or improvements based on the App or any part thereof.
+- Circumvent, remove, disable, or otherwise interfere with any security or digital rights management features of the App.
+- Use the App in any way that violates any applicable law or regulation or infringes on any third-party rights.
+
+3. Intellectual Property
+
+All rights, titles, and interests in and to the App, including but not limited to its source code, object code, design, user interface, documentation, and all associated intellectual property rights, are and shall remain the exclusive property of the Developer. The App is licensed, not sold.
+
+4. Termination
+
+This Agreement is effective until terminated.
+
+You may terminate this Agreement at any time by **permanently uninstalling and deleting all copies of the App from your device(s)**.
+
+This Agreement and your license to use the App will terminate immediately, without notice, if you breach any provision of this Agreement.
+
+Upon termination:
+
+- All rights granted to you under this Agreement will cease.
+- You must immediately cease all use of the App.
+- You must permanently uninstall and delete all copies of the App from all of your devices.
+- Any provisions which by their nature should survive termination shall remain in effect (e.g., intellectual property, disclaimers, and limitations of liability).
+
+5. Disclaimer of Warranty
+
+The App is provided "AS IS" and "AS AVAILABLE," without warranties of any kind, express or implied, including but not limited to merchantability, fitness for a particular purpose, non-infringement, or availability.
+
+6. Limitation of Liability
+
+To the maximum extent permitted by law, the Developer shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to loss of data, loss of profits, or damages arising from the use or inability to use the App, even if advised of the possibility of such damages.
+
+7. Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of California, United States, without regard to its conflict of law principles.
+
+8. Third-Party Software and Content
+
+The App may interact with or provide access to third-party software or game files ("Third-Party Content").
+
+You acknowledge and understand that:
+
+- Modifying Third-Party Content (e.g., game save files) may violate the terms and conditions or end user license agreements of the respective third-party software developers or publishers.
+- The Developer does not endorse or encourage any violation of third-party agreements.
+- Your use of the App to modify or access Third-Party Content is entirely at your own risk.
+- The Developer shall have no liability or responsibility for any consequences arising from such use, including but not limited to account suspension, termination, data loss, or legal action by third parties.
+- You are solely responsible for ensuring your use of the App complies with all applicable third-party agreements and terms of service.
+
+9. Reservation of Rights
+
+The Developer reserves all rights not expressly granted to you in this Agreement. No rights or licenses are granted by implication, estoppel, or otherwise.
+
+10. Severability
+
+If any provision of this Agreement is held to be illegal, invalid, or unenforceable, in whole or in part, such provision shall be enforced to the maximum extent permissible and the remainder shall remain in full force and effect.
+
+---
+
+If you do not agree with any term of this Agreement, do not install or use the App.
+
+By clicking “Accept” or installing the App, you acknowledge that you have read, understood, and agree to be bound by this Agreement.
