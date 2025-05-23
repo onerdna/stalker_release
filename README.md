@@ -30,6 +30,6 @@ This repository contains **compiled release files only**. The source code is **n
 
 ## 📄 License
 
-By downloading or using this software, you agree to the terms outlined in the [LICENSE](./LICENSE) and [EULA](./EULA.txt).
+By downloading or using this software, you agree to the terms outlined in the [LICENSE](./LICENSE.md) and [EULA](./EULA.txt).
 
 ---
