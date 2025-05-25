@@ -41,6 +41,8 @@ Stalker allows users to inspect and optionally tweak various aspects of their Sh
   - Shizuku is required to access save files (because it's not accessible for regular apps) and it's used to launch setup service binary.
 - **Can you add verified gems/raid consumables or damage hack?**
   - No.
+- **What setup service actually does? I'm concerned about running high-privelleged compiled binaries.**
+  - The only purpose of setup service is to tamper your user id from the game's process. After doing so, it will automatically close itself (or after two minutes of inactivity). User ID is different for each device and it's just a random string that does not contain any information about your device. I won't share the process of acquiring the ID here because it's the only possible way of doing that, so it can be patched easily by the developers if they know. 
 
 ## 📦 About This Repository
 
@@ -64,7 +66,7 @@ This repository contains **compiled release files only**. The source code is **n
     - <a href="https://www.flaticon.com/free-icons/knight" title="knight icons">Knight icons created by Freepik - Flaticon</a>
     - <a href="https://www.flaticon.com/free-icons/dojo" title="dojo icons">Dojo icons created by juicy_fish - Flaticon</a>
     - <a href="https://www.flaticon.com/free-icons/forge" title="forge icons">Forge icons created by Freepik - Flaticon</a>
-
+    - <a href="https://www.flaticon.com/free-icons/virus" title="virus icons">Virus icons created by Freepik - Flaticon</a>
 ## 📄 License
 
 By downloading or using this software, you agree to the terms outlined in the [LICENSE](./LICENSE.md) and [EULA](./EULA.txt).
