@@ -1,5 +1,7 @@
 # Stalker – Shadow Fight 2 Save Viewer & Modifier
 
+# This repository has been archived, please follow [this](https://github.com/onerdna/stalker) repository instead
+
 **Stalker** is a android utility application designed to **view and optionally modify save files** for the mobile game **Shadow Fight 2**.
 
 > ⚠️ **Disclaimer:** Shadow Fight 2 is a trademark of **Nekki Limited**. This application is not affiliated with, endorsed by, or associated with Nekki in any way. Use of this application is at your own risk. You are solely responsible for ensuring your use complies with Nekki’s terms of service and any applicable laws.
